@@ -2,11 +2,9 @@
 
 ## Requirement 
 ```
-pip install shodan 
+shodan 
+python 2.7."~"
 
-OR
-
-pip install -r requirements.txt 
 ```
 
 ### Reference from CVE-2017-0144
